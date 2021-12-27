@@ -1,0 +1,31 @@
+file-version: 2
+
+#REGISTRANDO
+TitleRegistrar: "&e&lRede Ryze"
+SubtitleRegistrar: "&7Por favor Digite /registrar (senha)"
+
+ExcedeuLimiteRegistrar: "&cSessao expirada, Tente novamente."
+
+#LOGANDO
+TitleLogar: "&e&lRede Ryze"
+SubtitleLogar: "&7Por favor Digite /logar (senha)"
+
+ExcedeuLimiteLogar: "&cSessao expirada, Tente novamente."
+
+#REGISTRADO
+MensagemRegistrado: |
+  &a
+  &aRegistro efetuado com sucesso!
+  &e&lDICA: &eCaso queira trocar de senha use /trocarsenha
+
+
+#TITULOS
+TitleLogado: "&e&lCONECTANDO..."
+SubtitleLogado: "&7Configurando minigames!"
+
+TitleRegistrado: "&e&lREGISTRANDO..."
+SubtitleRegistrado: "&7&lBom jogo!"
+
+#TEMPO
+TempoParaLogin: 60 #segundos
+TentativasParaLogin: 3

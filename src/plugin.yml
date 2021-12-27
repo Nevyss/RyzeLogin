@@ -1,0 +1,16 @@
+name: RyzeLogin
+authors: [Nevyss, Xephi59]
+version: 3.2-SNAPSHOT
+main: br.rederyze.login.Main
+description: Plugin Criado por Xephi59, Nevyss e Mior
+website: https://www.rederyze.com.br
+commands:
+  login:
+    aliases: [logar, conectar]
+  register:
+    aliases: [registrar, cadastrar]
+  changepassword:
+    aliases: [alterarsenha, mudarsenha, trocarsenha]
+  unregister:
+    aliases: [excluirconta, desregistrar]
+    permission: ryze.login.excluirconta

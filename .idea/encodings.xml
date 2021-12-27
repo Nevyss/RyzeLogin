@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/comandos/CommandChangePassword.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/comandos/CommandLogin.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/comandos/CommandRegister.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/comandos/CommandUnregister.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/entidades/Config.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/entidades/LPlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/playerconfig/PlayerData.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/playerconfig/PlayerLogin.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/rederyze/login/playerconfig/PlayerPreLogin.java" charset="windows-1252" />
+  </component>
+</project>

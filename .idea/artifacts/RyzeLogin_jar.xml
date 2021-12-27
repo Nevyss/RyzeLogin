@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RyzeLogin:jar">
+    <output-path>$USER_HOME$/Desktop/RYZE PROJECT/MinecraftServer/plugins</output-path>
+    <root id="archive" name="RyzeLogin.jar">
+      <element id="module-output" name="RyzeLogin" />
+    </root>
+  </artifact>
+</component>
